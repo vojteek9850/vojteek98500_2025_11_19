@@ -1,0 +1,8 @@
+Timestamp: 2025-11-19T12:55:09.434251
+Random source: https://www.idnes.cz
+Script directory: /Users/vojtechpecta/Downloads/Vojteek.py
+Python executable: /Users/vojtechpecta/Downloads/Vojteek.py/.venv/bin/python
+Python version: 3.9.6 (default, Aug  8 2025, 19:06:38) 
+[Clang 17.0.0 (clang-1700.3.19.1)]
+Public IP: 195.39.44.178
+Local IP: 172.16.2.123
